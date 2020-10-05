@@ -1,7 +1,7 @@
 ## Hello there!  <img src="waving.gif" width="40px">
 
 <p align="center">
-  <img src="GitHubBackground.jpg" height="500" width="500">
+  <img src="GitHubBackground.jpg" height="100" width="500">
 </p>
 
 <p>
