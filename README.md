@@ -28,6 +28,8 @@ Currently an MSc student in Engineering Physics at [Instituto Superior Técnico]
 <p align="center">
 <a href="linkedin.com/in/tiago-martins-9ba0a9154">
 <img src="https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
+<a href="https://www.kaggle.com/ta97fp">
+<img src="https://img.shields.io/badge/Kaggle-ta.am97fp-white?logo=kaggle">
 </a>
 </p>
 
