@@ -6,7 +6,7 @@
 
 <p>
 Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulisboa.pt/pt/">Instituto Superior Técnico</a>. Check out some of the work in the repositories. :wink:
-<p style="font-size:40px">
+<p style="font-size:100px">
 </p>
 
 ### My Main Programming Skills :desktop_computer: 
