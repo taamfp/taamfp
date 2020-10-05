@@ -16,9 +16,15 @@ Currently an MSc student in Engineering Physics at [Instituto Superior Técnico]
 <p>
 <img src="https://img.shields.io/badge/OS-Windows-green?logo=Windows">
 <img src="https://img.shields.io/badge/OS-Linux-green?logo=Linux">
+<img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
+<img src="https://img.shields.io/badge/IDE-PyCharm-green?logo=PyCharm">
 <img src="https://img.shields.io/badge/Game%20Engine%20Development-Unity-green?logo=Unity">
 <img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
+<img src="https://img.shields.io/badge/Library-scikit-green">
+<img src="https://img.shields.io/badge/Library-Dask-green">
 <img src="https://img.shields.io/badge/Library-Tensorflow-green?logo=Tensorflow">
+<img src="https://img.shields.io/badge/Library-Pytorch-green?logo=Pytorch">
+
 <img src="https://img.shields.io/badge/Library-Dashboard%20API-green">
 <img src="https://img.shields.io/badge/Program-Mathematica-green?logo=WolframMathematica">
 </a>
