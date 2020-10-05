@@ -10,7 +10,7 @@ Currently an MSc student in Engineering Physics.  Check out some of the
 - SQL <img src="SQL.png" width="70px">
 - HTML <img src="html.png" width="40px">
 
-### Tools and Environments :tool:
+### Tools and Environments :tools:
 
 
 
