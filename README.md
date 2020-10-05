@@ -11,11 +11,7 @@ Currently an MSc student in Engineering Physics at [Instituto Superior Técnico]
 - HTML <img src="html.png" width="40px">
 
 ### Tools and Environments 🔧
-<p align="center">
-<a href="linkedin.com/in/tiago-martins-9ba0a9154">
-<img src="https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
-</a>
-</p>
+
 
 
 ### Interests 👨‍💻
@@ -29,7 +25,17 @@ Currently an MSc student in Engineering Physics at [Instituto Superior Técnico]
 - Reinforcement Learning.
 
 ### Platforms 👨‍💻
+<p align="center">
+<a href="linkedin.com/in/tiago-martins-9ba0a9154">
+<img src="https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
+</a>
+</p>
 
+<p align="center">
+<a href="https://www.kaggle.com/ta97fp">
+<img src="https://img.shields.io/badge/Kaggle-ta.am97fp-white?logo=kaggle">
+</a>
+</p>
 
 <!--
 **taamfp/taamfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
