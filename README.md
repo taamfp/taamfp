@@ -1,7 +1,7 @@
 ## Hello there!  <img src="waving.gif" width="40px">
 
 <p align="center">
-  <img src="GitHubBackground.jpg">
+  <img src="GitHubBackground.jpg" | width=100>
 </p>
 
 Currently an MSc student in Engineering Physics at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). Check out some of the work in the repositories. :wink:
