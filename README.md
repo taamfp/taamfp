@@ -2,7 +2,8 @@
 
 ![Image](GitHubBackground.jpg)
 
-### Current Programming Skills :desktop_computer:
+:desktop_computer: ### Current Programming Skills
+<img src="C_Sharp_logo.svg" width="40px"> - C# 
 <!--
 **taamfp/taamfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
