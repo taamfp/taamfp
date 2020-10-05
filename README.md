@@ -1,6 +1,6 @@
 ## Hello there!  <img src="waving.gif" width="40px">
 
-![Image](GitHubBackground.jpg)
+ <img src="GitHubBackground.jpg" width="30px">
 
 Currently an MSc student in Engineering Physics at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). Check out some of the work in the repositories. :wink:
 
