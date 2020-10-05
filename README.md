@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  Currently an MSc student in Engineering Physics at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). Check out some of the work in the repositories. :wink:
+Currently an MSc student in Engineering Physics at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). Check out some of the work in the repositories. :wink:
 <p style="font-size:40px">
 </p>
 
