@@ -2,7 +2,7 @@
 
 ![Image](GitHubBackground.jpg)
 
-Currently an MSc student in Engineering Physics.  Check out some of the 
+Currently an MSc student in Engineering Physics at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). Check out some of the work in the repositories. :wink:
 
 ### My Main Programming Skills :desktop_computer: 
 - C# <img src="csharp.png" width="40px">
@@ -11,10 +11,24 @@ Currently an MSc student in Engineering Physics.  Check out some of the
 - HTML <img src="html.png" width="40px">
 
 ### Tools and Environments 🔧
+<p align=”center”>
+<a href=”LinkedIn profile URL”>
+<img src=”https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
+</a>
+</p>
 
 
+### Interests 👨‍💻
+-Physics;
+-Engineering;
+-IoT;
+-Programming;
+-Algorithms;
+-Machine Learning;
+-Deep Learning;
+-Reinforcement Learning.
 
-### Interests
+### Platforms 👨‍💻
 
 
 <!--
