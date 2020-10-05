@@ -3,7 +3,7 @@
 ![Image](GitHubBackground.jpg)
 
 ### Current Programming Skills :desktop_computer: 
-- Python <img src="python_logo.png" width="60px">
+- Python <img src="python_logo.png" width="100px">
 <!--
 **taamfp/taamfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
