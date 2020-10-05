@@ -1,11 +1,11 @@
 ## Hello there!  <img src="waving.gif" width="40px">
 
 <p align="center">
-  <img src="GitHubBackground.jpg" height="100" width="500">
+  <img src="GitHubBackground.jpg">
 </p>
 
 <p>
-<font size="+5000">
+<p style = "font-size:16px;font-style:italic;">
 Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulisboa.pt/pt/">Instituto Superior Técnico</a>. Check out some of the work in the repositories. :wink:
 </font>
 </p>
