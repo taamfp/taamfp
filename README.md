@@ -5,9 +5,8 @@
 </p>
 
 <p>
-<p style = "font-size:16px;font-style:italic;">
+<p style="font-size:16px;font-style:italic;">
 Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulisboa.pt/pt/">Instituto Superior Técnico</a>. Check out some of the work in the repositories. :wink:
-</font>
 </p>
 
 ### My Main Programming Skills :desktop_computer: 
