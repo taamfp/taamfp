@@ -4,7 +4,10 @@
   <img src="GitHubBackground.jpg"=250x100>
 </p>
 
-Currently an MSc student in Engineering Physics at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). Check out some of the work in the repositories. :wink:
+<p align="center">
+  Currently an MSc student in Engineering Physics at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). Check out some of the work in the repositories. :wink:
+<p style="font-size:30px">
+</p>
 
 ### My Main Programming Skills :desktop_computer: 
 - C# <img src="csharp.png" width="40px">
