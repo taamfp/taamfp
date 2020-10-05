@@ -19,14 +19,14 @@ Currently an MSc student in Engineering Physics at [Instituto Superior Técnico]
 
 
 ### Interests 👨‍💻
--Physics;
--Engineering;
--IoT;
--Programming;
--Algorithms;
--Machine Learning;
--Deep Learning;
--Reinforcement Learning.
+- Physics;
+- Engineering;
+- IoT;
+- Programming;
+- Algorithms;
+- Machine Learning;
+- Deep Learning;
+- Reinforcement Learning.
 
 ### Platforms 👨‍💻
 
