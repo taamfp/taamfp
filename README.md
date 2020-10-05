@@ -32,13 +32,6 @@ Currently an MSc student in Engineering Physics at [Instituto Superior Técnico]
 <img src="https://img.shields.io/badge/Kaggle-ta.am97fp-white?logo=kaggle">
 </a>
 </p>
-
-<p align="center">
-<a href="https://www.kaggle.com/ta97fp">
-<img src="https://img.shields.io/badge/Kaggle-ta.am97fp-white?logo=kaggle">
-</a>
-</p>
-
 <!--
 **taamfp/taamfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
