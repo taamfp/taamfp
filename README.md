@@ -4,7 +4,7 @@
 
 ### Current Programming Skills :desktop_computer: 
 - C# <img src="csharp.png" width="40px">
-- Python <img src="python_logo.png" width="70px">
+- Python <img src="python_logo.png" width="50px">
 - SQL <img src="SQL.png" width="70px">
 - HTML <img src="html.png" width="40px">
 <!--
