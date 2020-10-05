@@ -12,7 +12,7 @@ Currently an MSc student in Engineering Physics at [Instituto Superior Técnico]
 
 ### Tools and Environments 🔧
 <p align=”center”>
-<a href=”LinkedIn profile URL”>
+<a href=”linkedin.com/in/tiago-martins-9ba0a9154”>
 <img src=”https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
 </a>
 </p>
