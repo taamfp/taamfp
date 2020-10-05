@@ -25,7 +25,7 @@ Currently an MSc student in Engineering Physics at [Instituto Superior Técnico]
 - Reinforcement Learning.
 
 ### Platforms 👨‍💻
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/tiago-martins-9ba0a9154/">
 <img src="https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
 <a href="https://www.kaggle.com/ta97fp">
