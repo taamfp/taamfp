@@ -1,7 +1,7 @@
 ## Hello there!  <img src="waving.gif" width="40px">
 
 <p align="center">
-  <img src="cool.gif" height="50px" width="1000px">
+  <img src="cool.gif" height="500px" width="1000px">
 </p>
 
 <p>
