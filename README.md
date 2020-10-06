@@ -15,9 +15,9 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 - HTML <img src="html.png" width="40px">
 
 ### Secondary Language Skills :desktop_computer:
-- C++ <img src="cpp_logo.png" width="40px">
-- Java <img src="Java_logo.png" width="40px">
-- CSS <img src="css_logo.png" width="40px">
+- C++ <img src="cpp_logo.png" width="30px">
+- Java <img src="Java_logo.png" width="30x">
+- CSS <img src="css_logo.png" width="30px">
 
 ### Tools and Environments 🔧
 <p>
