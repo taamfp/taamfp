@@ -55,6 +55,9 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 <img src="https://img.shields.io/badge/Kaggle-ta.am97fp-white?logo=kaggle">
 </a>
 </p>
+  
+![Github stats](https://github-readme-stats.vercel.app/api?username=taamfp)
+  
 <!--
 **taamfp/taamfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
