@@ -1,7 +1,7 @@
 ## Hello there!  <img src="waving.gif" width="40px">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy.gif">
+  <iframe src="https://giphy.com/embed/7NS9RAepPQ0HJ85qJz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/after-effects-tao-trapcodetao-7NS9RAepPQ0HJ85qJz">via GIPHY</a></p>
 </p>
 
 <p>
