@@ -1,20 +1,20 @@
-# Hello there!  <img src="waving.gif" width="40px">
-
 <p align="center">
   <img src="GitHubBackground.jpg" height="300px" width="1000px">
 </p>
+
+# Hello there!  <img src="waving.gif" width="40px">
 
 <p>
 Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulisboa.pt/pt/">Instituto Superior Técnico</a>. Check out some of the work in the repositories. :wink:
 </p>
 
-### My Main Programming Language Skills :desktop_computer: 
+### My main programming language skills :desktop_computer: 
 - C# <img src="csharp.png" width="40px">
 - Python <img src="python_logo.png" width="40px">
 - SQL <img src="SQL.png" width="70px">
 - HTML <img src="html.png" width="40px">
 
-### Secondary Language Skills :desktop_computer:
+### Secondary language skills :desktop_computer:
 - C++ <img src="cpp_logo.png" width="30px">
 - Java <img src="Java_logo.png" width="30x">
 - CSS <img src="css_logo.png" width="30px">
@@ -56,8 +56,9 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 </a>
 </p>
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=taamfp)
-  
+# Stats 📈
+![Github stats](https://github-readme-stats.vercel.app/api?username=taamfp?theme=tokyonight)
+
 <!--
 **taamfp/taamfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
