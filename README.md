@@ -57,7 +57,7 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 </p>
   
 # Stats 📈
-![Github stats](https://github-readme-stats.vercel.app/api?username=taamfp?theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=taamfp&show_icons=true&theme=tokyonight)
 
 <!--
 **taamfp/taamfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
