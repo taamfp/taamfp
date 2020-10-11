@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avatar.gif" height="300px" width="1000px">
+  <img src="GitHubBackground.png" height="300px" width="1000px">
 </p>
 
 # Hello there!  <img src="waving.gif" width="40px">
