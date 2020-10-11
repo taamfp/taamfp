@@ -2,7 +2,7 @@
   <img src="GitHubBackground.jpg" height="300px" width="1000px">
 </p>
 
-# Hello there!  <img src="waving.gif" width="40px">
+# Hello there!  <img src="avatar.gif" width="40px">
 
 <p>
 Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulisboa.pt/pt/">Instituto Superior Técnico</a>. Check out some of the work in the repositories. :wink:
