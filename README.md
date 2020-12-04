@@ -24,7 +24,7 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 <img src="https://img.shields.io/badge/OS-Windows-green?logo=Windows">
 <img src="https://img.shields.io/badge/OS-Linux-green?logo=Linux">
 <img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
-<img src="https://img.shields.io/badge/Editor-Sublime Text-orange?logo=Sublime%Text">
+<img src="https://img.shields.io/badge/Editor-Sublime%20Text-green?logo=Sublime-Text">
 <img src="https://img.shields.io/badge/IDE-PyCharm-green?logo=PyCharm">
 <img src="https://img.shields.io/badge/Game%20Engine%20Development-Unity-green?logo=Unity">
 <img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
