@@ -30,7 +30,7 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 <img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
 <img src="https://img.shields.io/badge/Framework-scikit-green">
 <img src="https://img.shields.io/badge/Framework-Dask-green">
-<img src="https://img.shields.io/badge/Framework-Keras-red?logo=Keras">
+<img src="https://img.shields.io/badge/Framework-Keras-green?logo=Keras">
 <img src="https://img.shields.io/badge/Framework-Tensorflow-green?logo=Tensorflow">
 <img src="https://img.shields.io/badge/Framework-Pytorch-green?logo=Pytorch">
 
