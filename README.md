@@ -10,7 +10,7 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 
 ### Programming language skills :desktop_computer: 
 C# <img src="csharp.png" width="40px">   
-Python <img src="python_logo.png" width="40px"> </p>
+Python <img src="python_logo.png" width="50px">
 SQL <img src="SQL.png" width="70px">  
 HTML <img src="html.png" width="40px">   
 C++ <img src="cpp_logo.png" width="30px">   
