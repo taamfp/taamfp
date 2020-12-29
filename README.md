@@ -8,16 +8,14 @@
 Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulisboa.pt/pt/">Instituto Superior Técnico</a>. Check out some of the work in the repositories. :wink:
 </p>
 
-### My main programming language skills :desktop_computer: 
-- C# <img src="csharp.png" width="40px">
-- Python <img src="python_logo.png" width="40px">
-- SQL <img src="SQL.png" width="70px">
-- HTML <img src="html.png" width="40px">
-
-### Secondary language skills :desktop_computer:
-- C++ <img src="cpp_logo.png" width="30px">
-- Java <img src="Java_logo.png" width="30x">
-- CSS <img src="css_logo.png" width="30px">
+### Programming language skills :desktop_computer: 
+C# <img src="csharp.png" width="40px">
+Python <img src="python_logo.png" width="40px">
+SQL <img src="SQL.png" width="70px">
+HTML <img src="html.png" width="40px">
+C++ <img src="cpp_logo.png" width="30px">
+Java <img src="Java_logo.png" width="30x">
+CSS <img src="css_logo.png" width="30px">
 
 ### Tools and Environments 🔧
 <p>
