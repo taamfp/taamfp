@@ -26,14 +26,10 @@ CSS <img src="css_logo.png" width="30px">
 <img src="https://img.shields.io/badge/IDE-PyCharm-green?logo=PyCharm">
 <img src="https://img.shields.io/badge/Game%20Engine%20Development-Unity-green?logo=Unity">
 <img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
-<img src="https://img.shields.io/badge/Framework-scikit-green">
 <img src="https://img.shields.io/badge/Framework-Dask-green">
 <img src="https://img.shields.io/badge/Framework-Keras-green?logo=Keras">
 <img src="https://img.shields.io/badge/Framework-Tensorflow-green?logo=Tensorflow">
 <img src="https://img.shields.io/badge/Framework-Pytorch-green?logo=Pytorch">
-
-<img src="https://img.shields.io/badge/Framework-Dashboard%20API-green">
-<img src="https://img.shields.io/badge/Software-Mathematica-green?logo=WolframMathematica">
 </a>
 </p>
 
@@ -43,7 +39,6 @@ CSS <img src="css_logo.png" width="30px">
 - IoT;
 - Programming;
 - Algorithms;
-- Machine Learning;
 - Deep Learning;
 - Reinforcement Learning.
 
@@ -53,6 +48,8 @@ CSS <img src="css_logo.png" width="30px">
 <img src="https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
 <a href="https://www.kaggle.com/ta97fp">
 <img src="https://img.shields.io/badge/Kaggle-ta.am97fp-white?logo=kaggle">
+<a href="https://https://twitter.com/taamfp">
+<img src="https://img.shields.io/badge/Twitter-taamfp-informational?logo=Twitter">
 </a>
 </p>
   
