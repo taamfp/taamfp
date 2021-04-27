@@ -26,7 +26,7 @@ CSS <img src="css_logo.png" width="30px">
 <img src="https://img.shields.io/badge/IDE-PyCharm-green?logo=PyCharm">
 <img src="https://img.shields.io/badge/Game%20Engine%20Development-Unity-green?logo=Unity">
 <img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
-<img src="https://img.shields.io/badge/API-CUDA-green?logo=CUDA">
+<img src="https://img.shields.io/badge/API-CUDA-green?logo=Nvidia">
 <img src="https://img.shields.io/badge/Framework-Dask-green">
 <img src="https://img.shields.io/badge/Framework-Keras-green?logo=Keras">
 <img src="https://img.shields.io/badge/Library-Tensorflow-green?logo=Tensorflow">
