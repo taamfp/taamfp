@@ -33,7 +33,7 @@ CSS <img src="css_logo.png" width="30px">
 <img src="https://img.shields.io/badge/Library-OpenCV-blue?logo=OpenCV">
 <img src="https://img.shields.io/badge/Compiler-Numba-blue?logo=Numba">
 <img src="https://img.shields.io/badge/Framework-Keras-red?logo=Keras">
-<img src="https://img.shields.io/badge/Library-Tensorflow-green?logo=Tensorflow">
+<img src="https://img.shields.io/badge/Library-Tensorflow-orange?logo=Tensorflow">
 <img src="https://img.shields.io/badge/Framework-Pytorch-purple?logo=Pytorch">
 </a>
 </p>
