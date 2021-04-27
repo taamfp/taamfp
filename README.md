@@ -24,7 +24,7 @@ CSS <img src="css_logo.png" width="30px">
 <img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
 <img src="https://img.shields.io/badge/Editor-Sublime%20Text-green?logo=Sublime-Text">
 <img src="https://img.shields.io/badge/Editor-Atom-whitegreen?logo=Atom">
-<img src="https://img.shields.io/badge/IDE-Visual20%Studio-purple?logo=Visual%20Studio">
+<img src="https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=Visual%20Studio">
 <img src="https://img.shields.io/badge/IDE-PyCharm-green?logo=PyCharm">
 <img src="https://img.shields.io/badge/Game%20Engine%20Development-Unity-green?logo=Unity">
 <img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
