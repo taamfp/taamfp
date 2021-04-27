@@ -19,20 +19,22 @@ CSS <img src="css_logo.png" width="30px">
 
 ### Tools and Environments 🔧
 <p>
-<img src="https://img.shields.io/badge/OS-Windows-green?logo=Windows">
-<img src="https://img.shields.io/badge/OS-Linux-green?logo=Linux">
-<img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
-<img src="https://img.shields.io/badge/Editor-Sublime%20Text-green?logo=Sublime-Text">
+<img src="https://img.shields.io/badge/OS-Windows-blue?logo=Windows">
+<img src="https://img.shields.io/badge/OS-Linux-orange?logo=Linux">
+<img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=Visual%20Studio%20Code">
+<img src="https://img.shields.io/badge/Editor-Sublime%20Text-orange?logo=Sublime-Text">
 <img src="https://img.shields.io/badge/Editor-Atom-whitegreen?logo=Atom">
 <img src="https://img.shields.io/badge/IDE-Visual%20Studio-purple?logo=Visual%20Studio">
 <img src="https://img.shields.io/badge/IDE-PyCharm-green?logo=PyCharm">
-<img src="https://img.shields.io/badge/Game%20Engine%20Development-Unity-green?logo=Unity">
-<img src="https://img.shields.io/badge/Cloud-Azure-green?logo=Microsoft%20Azure">
+<img src="https://img.shields.io/badge/Game%20Engine%20Development-Unity-white?logo=Unity">
+<img src="https://img.shields.io/badge/Cloud-Azure-blue?logo=Microsoft%20Azure">
 <img src="https://img.shields.io/badge/API-CUDA-green?logo=Nvidia">
-<img src="https://img.shields.io/badge/Framework-Dask-green">
-<img src="https://img.shields.io/badge/Framework-Keras-green?logo=Keras">
+<img src="https://img.shields.io/badge/Library-Dask-orange">
+<img src="https://img.shields.io/badge/Library-OpenCV-blue?logo=OpenCV">
+<img src="https://img.shields.io/badge/Compiler-Numba-blue?logo=Numba">
+<img src="https://img.shields.io/badge/Framework-Keras-red?logo=Keras">
 <img src="https://img.shields.io/badge/Library-Tensorflow-green?logo=Tensorflow">
-<img src="https://img.shields.io/badge/Framework-Pytorch-green?logo=Pytorch">
+<img src="https://img.shields.io/badge/Framework-Pytorch-purple?logo=Pytorch">
 </a>
 </p>
 
@@ -41,6 +43,7 @@ CSS <img src="css_logo.png" width="30px">
 - Engineering;
 - IoT;
 - Programming;
+- High Performance Computing;
 - Algorithms;
 - Deep Learning;
 - Reinforcement Learning.
