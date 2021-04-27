@@ -9,13 +9,12 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 </p>
 
 ### Programming language skills :desktop_computer: 
-C# <img src="csharp.png" width="40px">   
-Python <img src="python_logo.png" width="40px">
-
-HTML <img src="html.png" width="40px">   
-C++ <img src="cpp_logo.png" width="30px">   
-Java <img src="Java_logo.png" width="30x">   
-CSS <img src="css_logo.png" width="30px">
+<code><img height="40" src="c_logo.png"></code>
+<code><img height="40" src="python_logo.png"></code>
+<code><img height="40" src="csharp.png"></code>
+<code><img height="40" src="SQL.png"></code>
+<code><img height="40" src="javascript.png"></code>
+<code><img height="40" src="julia_logo.png"></code>
 
 ### Tools and Environments 🔧
 <p>
