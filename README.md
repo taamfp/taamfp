@@ -12,7 +12,9 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 <code><img height="70" src="c_logo.png"></code>
 <code><img height="70" src="python_logo.png"></code>
 <code><img height="70" src="csharp.png"></code>
+<code><img height="70" src="cpp_loho.png"></code>
 <code><img height="70" src="SQL.png"></code>
+<code><img height="70" src="html.png"></code>
 <code><img height="70" src="javascript.png"></code>
 <code><img height="70" src="julia_logo.png"></code>
 
@@ -61,7 +63,7 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 # Stats 📈
 ![Github stats](https://github-readme-stats.vercel.app/api?username=taamfp&show_icons=true&theme=tokyonight)
 
-![Used Project Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taamfp&layout=compact&theme=tokyonight)
+![Used Project Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taamfp&layout=default&theme=jolly%langs_count=7)
 
 
 <!--
