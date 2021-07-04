@@ -55,8 +55,6 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 <img src="https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
 <a href="https://www.kaggle.com/ta97fp">
 <img src="https://img.shields.io/badge/Kaggle-ta.am97fp-white?logo=kaggle">
-<a href="https://twitter.com/taamfp">
-<img src="https://img.shields.io/badge/Twitter-taamfp-informational?logo=Twitter">
 </a>
 </p>
   
