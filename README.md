@@ -50,7 +50,11 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 - Reinforcement Learning.
 
 #### Towards Data Science contributor
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ta.amfp/0">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ta.amfp/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ta.amfp/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+
+
 
 
 ### Platforms 👨‍
