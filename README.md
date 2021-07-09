@@ -49,6 +49,10 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 - Deep Learning;
 - Reinforcement Learning.
 
+#### Towards Data Science contributor
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ta.amfp/0">
+
+
 ### Platforms 👨‍
 <p>
 <a href="https://www.linkedin.com/in/tiago-martins-9ba0a9154/">
@@ -60,7 +64,6 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
   
 # Stats 📈
 ![Github stats](https://github-readme-stats.vercel.app/api?username=taamfp&show_icons=true&theme=tokyonight)
-
 
 
 <!--
