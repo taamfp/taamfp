@@ -49,7 +49,7 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 - Deep Learning;
 - Reinforcement Learning.
 
-#### Towards Data Science contributor
+### Towards Data Science contributor
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ta.amfp/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ta.amfp/0" alt="Recent Article 0"> 
 
 
@@ -57,12 +57,14 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 <p>
 <a href="https://www.linkedin.com/in/tiago-martins-9ba0a9154/">
 <img src="https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
+<a href="https://twitter.com/taamfp">
+<img src="https://img.shields.io/badge/Twitter-Tiago%20Martins-white_blue?logo=Twitter">
 <a href="https://www.kaggle.com/ta97fp">
 <img src="https://img.shields.io/badge/Kaggle-ta.am97fp-white?logo=kaggle">
 </a>
 </p>
   
-# Stats 📈
+### Stats 📈
 ![Github stats](https://github-readme-stats.vercel.app/api?username=taamfp&show_icons=true&theme=tokyonight)
 
 
