@@ -13,7 +13,7 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 <code><img height="70" src="python_logo.png"></code>
 <code><img height="70" src="csharp.png"></code>
 <code><img height="70" src="cpp_logo.png"></code>
-<code><img height="70" src="SQL.png"></code>
+<code><img height="55" src="SQL.png"></code>
 <code><img height="70" src="html.png"></code>
 <code><img height="70" src="javascript.png"></code>
 <code><img height="70" src="julia_logo.png"></code>
@@ -49,7 +49,7 @@ Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulis
 - Deep Learning;
 - Reinforcement Learning.
 
-### Towards Data Science contributor
+### Towards Data Science contributor 📘
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ta.amfp/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ta.amfp/0" alt="Recent Article 0"> 
 
 
