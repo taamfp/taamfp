@@ -5,7 +5,7 @@
 # Hello there!  <img src="waving.gif" width="40px">
 
 <p>
-Currently an MSc student in Engineering Physics at <a href="https://tecnico.ulisboa.pt/pt/">Instituto Superior Técnico</a>. Check out some of the work in the repositories. :wink:
+Since a young age, I'm fascinated with the world around me, which made me want to study physics and engineering. My interests also include Software Development, Deep Learning, High-Performance Computing. Apart from my scientific and professional interests, I'm also a music lover, guitar practitioner, sound engineering and sports enthusiast. Check out some of the work in the repositories. :wink:
 </p>
 
 ### Programming language skills :desktop_computer: 
