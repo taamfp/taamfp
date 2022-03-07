@@ -52,8 +52,6 @@ Since a young age, I'm fascinated with the world around me, which made me want t
 <img src="https://img.shields.io/badge/Linkedin-Tiago%20Martins-blue?logo=Linkedin">
 <a href="https://twitter.com/taamfp">
 <img src="https://img.shields.io/badge/Twitter-taamfp-blue?logo=Twitter">
-<a href="https://www.kaggle.com/ta97fp">
-<img src="https://img.shields.io/badge/Kaggle-ta.am97fp-white?logo=kaggle">
 </a>
 </p>
   
