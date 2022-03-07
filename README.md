@@ -25,9 +25,7 @@ Since a young age, I'm fascinated with the world around me, which made me want t
 <img src="https://img.shields.io/badge/Game%20Engine%20Development-Unity-white?logo=Unity">
 <img src="https://img.shields.io/badge/Cloud-Azure-blue?logo=Microsoft%20Azure">
 <img src="https://img.shields.io/badge/API-CUDA-green?logo=Nvidia">
-<img src="https://img.shields.io/badge/Library-Dask-orange">
 <img src="https://img.shields.io/badge/Library-OpenCV-blue?logo=OpenCV">
-<img src="https://img.shields.io/badge/Compiler-Numba-blue?logo=Numba">
 <img src="https://img.shields.io/badge/Framework-Keras-red?logo=Keras">
 <img src="https://img.shields.io/badge/Library-Tensorflow-orange?logo=Tensorflow">
 <img src="https://img.shields.io/badge/Framework-Pytorch-purple?logo=Pytorch">
