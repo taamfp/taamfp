@@ -1,4 +1,4 @@
-# Hello there!  <img src="waving.gif" width="40px">
+# Hello there!  <img src="waving.gif" height="40px" width="40px">
 
 <p>
 Since a young age, I'm fascinated with the world around me, which made me want to study physics and engineering. My interests also include Software Development, Deep Learning, High-Performance Computing. Apart from my scientific and professional interests, I'm also a music lover, guitar practitioner, sound engineering, gaming and sports enthusiast. Check out some of the work in the repositories. :wink:
